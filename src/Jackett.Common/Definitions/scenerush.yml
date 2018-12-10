@@ -4,7 +4,7 @@
   description: "SceneRush is a Portuguese general tracker."
   language: pt-PT
   type: private
-  encoding: UTF-8
+  encoding: ISO-8859-15
   links:
     - http://www.scene-rush.pt
 
